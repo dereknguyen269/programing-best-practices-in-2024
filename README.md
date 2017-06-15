@@ -14,7 +14,22 @@ With the list bellow, I hope I can help developers improve their skills and rise
 2. **[HTML Best Practices](#html-best-practices)**
 3. **[CSS Best Practices](#css-best-practices)**
 4. **[SASS Best Practices](#sass-best-practices)**
-
+5. **[JavaScript Best Practices](#javascript-best-practices)**
+6. **[NodeJS Best Practices](#nodejs-best-practices)**
+7. **[ReactJS Best Practices](#reactjs-best-practices)**
+8. **[Angular Best Practices](#angular-best-practices)**
+9. **[ReactNative Best Practices](#reactnative-best-practices)**
+10. **[PHP Best Practices](#php-best-practices)**
+11. **[Ruby Best Practices](#ruby-best-practices)**
+12. **[Rails Best Practices](#rails-best-practices)**
+13. **[Laravel Best Practices](#laravel-best-practices)**
+14. **[Swift Best Practices](#swift-best-practices)**
+14. **[Objective-C Best Practices](#objective-c-best-practices)**
+16. **[Java Best Practices](#java-best-practices)**
+17. **[Kotlin Best Practices](#kotlin-best-practices)**
+18. **[GO Best Practices](#go-best-practices)**
+19. **[Rust Best Practices](#rust-best-practices)**
+20. **[Elixir Best Practices](#elixir-best-practices)**
 
 ---
 
