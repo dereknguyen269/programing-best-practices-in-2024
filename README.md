@@ -196,3 +196,11 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [raywenderlich.com Kotlin Style Guide (in progress)](https://github.com/raywenderlich/kotlin-style-guide) - @raywenderlich
 
 ---
+
+## GO Best Practices
+
+- [Go Best Practices](https://github.com/mehrdadrad/GoBestPractices) - @mehrdadrad
+
+- [Go Style Guide](https://github.com/AgtLucas/go-style-guide) - @AgtLucas
+
+---
