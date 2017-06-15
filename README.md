@@ -112,3 +112,15 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [React-Native Guide](https://github.com/reactnativecn/react-native-guide) - @reactnativecn
 
 --
+
+## PHP Best Practices
+
+- [PHP: The Right Way](https://github.com/codeguy/php-the-right-way) - @codeguy
+
+- [PHP knowledge](https://github.com/php-earth/php-knowledge) - @php-earth
+
+- [Style-Guides](https://github.com/Integralist/Style-Guides) - @Integralist
+
+- [PHP Coding Standards](https://github.com/maxdmyers/php-style-guide) - @maxdmyers
+
+---
