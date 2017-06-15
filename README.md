@@ -204,3 +204,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Go Style Guide](https://github.com/AgtLucas/go-style-guide) - @AgtLucas
 
 ---
+
+## Rust Best Practices
+
+- [Rust Style Guide](https://github.com/ubsan/style/blob/master/guide.md) - @ubsan
+
+---
