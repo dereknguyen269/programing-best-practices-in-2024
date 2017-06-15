@@ -75,3 +75,16 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Common JavaScript "Gotchas"](https://github.com/stevekwan/best-practices/blob/master/javascript/gotchas.md) - @stevekwan
 
 - [Pragmatic Standards: JavaScript Coding Standards and Best Practices](https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md) - @stevekwan
+
+- [JavaScript规范](https://github.com/adamlu/javascript-style-guide) - @adamlu
+
+---
+
+## NodeJS Best Practices
+
+- [Node.js Style Guide](https://github.com/felixge/node-style-guide) - @felixge
+
+- [RisingStack Node.js Style Guide() {](https://github.com/RisingStack/node-style-guide) - @RisingStack
+
+
+---
