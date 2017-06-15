@@ -88,3 +88,11 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 
 ---
+
+## ReactJS Best Practices
+
+- [React Design Patterns and Best Practices ](https://github.com/MicheleBertoli/react-design-patterns-and-best-practices)- @MicheleBertoli
+
+- [React Style Guide](https://github.com/coderjonny/react-style-guide) - @coderjonny
+
+---
