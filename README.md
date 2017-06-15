@@ -106,3 +106,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Angular.js: Advanced Design Patterns and Best Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices) - @trochette
 
 ---
+
+## ReactNative Best Practices
+
+- [React-Native Guide](https://github.com/reactnativecn/react-native-guide) - @reactnativecn
+
+--
