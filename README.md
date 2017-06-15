@@ -146,3 +146,11 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - @flyerhzm
 
 ---
+
+## Laravel Best Practices
+
+- [Laravel: The Right Way](https://github.com/laraveltherightway/laraveltherightway.github.io) - @laraveltherightway
+
+- [Laravel: The Right Way (Best Practices)](https://github.com/uonick/laravel-best-practices) - @uonick
+
+---
