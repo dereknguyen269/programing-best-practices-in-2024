@@ -12,6 +12,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 1. **[Start Here](#start-here)**
 2. **[HTML Best Practices](#html-best-practices)**
+3. **[CSS Best Practices](#css-best-practices)**
+4. **[SASS Best Practices](#sass-best-practices)**
 
 
 ---
@@ -26,3 +28,21 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [HTML Best Practices](https://github.com/hail2u/html-best-practices) - @hail2u
 
 - [HTML5 (and Some CSS) Best Practice](https://www.codeproject.com/Tips/666578/HTML-and-Some-CSS-Best-Practice) - Paulo Augusto Kunzel
+
+- [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) - @bendc
+
+---
+
+## CSS Best Practices
+
+- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - @airbnb
+
+- [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - @dropbox
+
+---
+
+## SASS Best Practices
+
+- [Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - @bigcommerce
+
+- [Sass-Guidlines](https://github.com/blackfalcon/Sass-Guidlines/blob/master/SASS-Guidelines.md) - @blackfalcon
