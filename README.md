@@ -54,6 +54,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - @dropbox
 
+- [CSS Coding Standards and Best Practices](https://github.com/stevekwan/best-practices/blob/master/css/best-practices.md) - @stevekwan
+
 ---
 
 ## SASS Best Practices
@@ -61,3 +63,15 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - @bigcommerce
 
 - [Sass-Guidlines](https://github.com/blackfalcon/Sass-Guidlines/blob/master/SASS-Guidelines.md) - @blackfalcon
+
+---
+
+## JavaScript Best Practices
+
+- [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript) - @airbnb
+
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - @DrkSephy
+
+- [Common JavaScript "Gotchas"](https://github.com/stevekwan/best-practices/blob/master/javascript/gotchas.md) - @stevekwan
+
+- [Pragmatic Standards: JavaScript Coding Standards and Best Practices](https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md) - @stevekwan
