@@ -164,3 +164,15 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - @raywenderlich
 
 ---
+
+## Objective-C Best Practices
+
+- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - @NYTimes
+
+- [raywenderlich.com Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide) - @raywenderlich
+
+- [Style guide & coding conventions for Objective-C projects](https://github.com/github/objective-c-style-guide) - @github
+
+- [Code Style & Best Practise for Objective-C](https://github.com/wangshengjia/-Code-Style---Best-Practise-for-Objective-C) - @wangshengjia
+
+---
