@@ -186,3 +186,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - @raywenderlich
 
 ---
+
+## Kotlin Best Practices
+
+- [Best practices in kotlin](https://github.com/JackyAndroid/kotlin-best-practices) - @JackyAndroid
+
+- [kotlin-style-guide](https://github.com/yole/kotlin-style-guide) - @yole
+
+- [raywenderlich.com Kotlin Style Guide (in progress)](https://github.com/raywenderlich/kotlin-style-guide) - @raywenderlich
+
+---
