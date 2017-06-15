@@ -145,6 +145,10 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - @flyerhzm
 
+- [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide) - @reachlocal
+
+- [Rspec Best Practices](https://github.com/abinoda/rspec-best-practices) - @abinoda
+
 ---
 
 ## Laravel Best Practices
