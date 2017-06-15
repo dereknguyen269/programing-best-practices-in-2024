@@ -111,7 +111,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [React-Native Guide](https://github.com/reactnativecn/react-native-guide) - @reactnativecn
 
---
+---
 
 ## PHP Best Practices
 
@@ -122,5 +122,19 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Style-Guides](https://github.com/Integralist/Style-Guides) - @Integralist
 
 - [PHP Coding Standards](https://github.com/maxdmyers/php-style-guide) - @maxdmyers
+
+---
+
+## Ruby Best Practices
+
+- [Ruby Style Guide](https://github.com/airbnb/ruby) - @airbnb
+
+- [Ruby Tricks, Idiomatic Ruby, Refactorings and Best Practices](https://github.com/franzejr/best-ruby) - @franzejr
+
+- [Best Practice Patterns in Ruby](https://github.com/avdi/sbpprb) - @avdi
+
+- [Ruby Best Practices, by Gregory Brown](https://github.com/practicingruby/rbp-book) - @practicingruby
+
+- [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - @bbatsov
 
 ---
