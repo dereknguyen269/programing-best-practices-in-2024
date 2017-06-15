@@ -176,3 +176,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Code Style & Best Practise for Objective-C](https://github.com/wangshengjia/-Code-Style---Best-Practise-for-Objective-C) - @wangshengjia
 
 ---
+
+## Java Best Practices
+
+- [Java Best Practices](https://github.com/in28minutes/java-best-practices) - @in28minutes
+
+- [Selenium-best-practices](https://github.com/previousdeveloper/Selenium-best-practices) - @previousdeveloper
+
+- [raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - @raywenderlich
+
+---
