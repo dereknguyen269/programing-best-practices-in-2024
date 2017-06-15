@@ -96,3 +96,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [React Style Guide](https://github.com/coderjonny/react-style-guide) - @coderjonny
 
 ---
+
+## Angular Best Practices
+
+- [Angularjs style guide](https://github.com/mgechev/angularjs-style-guide) - @mgechev
+
+- [Angular 2 Style Guide](https://github.com/mgechev/angular2-style-guide) - @mgechev
+
+- [Angular.js: Advanced Design Patterns and Best Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices) - @trochette
+
+---
