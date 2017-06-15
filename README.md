@@ -154,3 +154,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Laravel: The Right Way (Best Practices)](https://github.com/uonick/laravel-best-practices) - @uonick
 
 ---
+
+## Swift Best Practices
+
+- [Swift Style Guide](https://github.com/eure/swift-style-guide) - @eure
+
+- [Design Patterns implemented in Swift 3.0](https://github.com/ochococo/Design-Patterns-In-Swift) - @ochococo
+
+- [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - @raywenderlich
+
+---
