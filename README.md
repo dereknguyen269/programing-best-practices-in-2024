@@ -138,3 +138,11 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - @bbatsov
 
 ---
+
+## Rails Best Practices
+
+- [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide) - @bbatsov
+
+- [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - @flyerhzm
+
+---
