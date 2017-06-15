@@ -210,3 +210,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Rust Style Guide](https://github.com/ubsan/style/blob/master/guide.md) - @ubsan
 
 ---
+
+## Elixir Best Practices
+
+- [The Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide) - @christopheradams
+
+- [Elixir Style Guide](https://github.com/lexmag/elixir-style-guide) - @lexmag
+
+- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide) - @rrrene
+
+---
