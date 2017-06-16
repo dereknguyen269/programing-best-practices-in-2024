@@ -30,6 +30,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 18. **[GO Best Practices](#go-best-practices)**
 19. **[Rust Best Practices](#rust-best-practices)**
 20. **[Elixir Best Practices](#elixir-best-practices)**
+21. **[Scala Best Practices](#scala-best-practices)**
 
 ---
 
@@ -222,5 +223,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Elixir Style Guide](https://github.com/lexmag/elixir-style-guide) - @lexmag
 
 - [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide) - @rrrene
+
+---
+
+## Scala Best Practices
+
+- [Scala Best Practices](https://github.com/alexandru/scala-best-practices) - @alexandru
+
+- [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - @databricks
 
 ---
