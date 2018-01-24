@@ -31,6 +31,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 19. **[Rust Best Practices](#rust-best-practices)**
 20. **[Elixir Best Practices](#elixir-best-practices)**
 21. **[Scala Best Practices](#scala-best-practices)**
+22. **[TypeScript best practices](#typescript-best-practices)**
 
 ---
 
@@ -233,3 +234,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - @databricks
 
 ---
+
+## Typescript Best Practices
+
+- [TypeScript Best Practices](https://github.com/BestCoderDotInfo/TypeScript-best-practices) - @BestCoderDotInfo
+
