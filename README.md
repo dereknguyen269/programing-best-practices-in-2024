@@ -48,6 +48,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) - @bendc
 
+- [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.html#HTML) - @google
+
 ---
 
 ## CSS Best Practices
@@ -57,6 +59,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - @dropbox
 
 - [CSS Coding Standards and Best Practices](https://github.com/stevekwan/best-practices/blob/master/css/best-practices.md) - @stevekwan
+
+- [Google CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#CSS) - @google
 
 ---
 
@@ -80,6 +84,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [JavaScript规范](https://github.com/adamlu/javascript-style-guide) - @adamlu
 
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - @google
+
 ---
 
 ## NodeJS Best Practices
@@ -96,6 +102,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [React Design Patterns and Best Practices ](https://github.com/MicheleBertoli/react-design-patterns-and-best-practices)- @MicheleBertoli
 
 - [React Style Guide](https://github.com/coderjonny/react-style-guide) - @coderjonny
+
+- [Advanced ReactJS Patterns](https://github.com/kentcdodds/advanced-react-patterns-v2) - @kentcdodds
 
 ---
 
