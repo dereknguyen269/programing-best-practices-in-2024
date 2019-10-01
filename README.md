@@ -1,4 +1,4 @@
-# Code Style Best Practices For Best Developer
+# Code Style Best Practices For Great Developer
 
 The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on Web Development such as: Ruby, Rails, Javascript. There is also a wealth of information on interview prep and applying to jobs.
 
