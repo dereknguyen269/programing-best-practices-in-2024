@@ -32,6 +32,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 20. **[Elixir Best Practices](#elixir-best-practices)**
 21. **[Scala Best Practices](#scala-best-practices)**
 22. **[TypeScript best practices](#typescript-best-practices)**
+23. **[Flutter best practices](#flutter-best-practices)**
 
 ---
 
@@ -246,4 +247,12 @@ With the list bellow, I hope I can help developers improve their skills and rise
 ## Typescript Best Practices
 
 - [TypeScript Best Practices](https://github.com/BestCoderDotInfo/TypeScript-best-practices) - @BestCoderDotInfo
+
+---
+
+## Flutter Best Practices
+
+- [Performance best practices](https://flutter.dev/docs/perf/rendering/best-practices)
+- [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) - Kinjal Dhamat
+- [Flutter Development Best Practices](https://heartbeat.fritz.ai/flutter-development-best-practices-3e162765340a) - Derrick Mwiti
 
