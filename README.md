@@ -35,6 +35,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 23. **[Flutter best practices](#flutter-best-practices)**
 24. **[Vue best practices](#vue-best-practices)**
 25. **[C best practices](#c-best-practices)**
+26. **[Python best practices](#python-best-practices)**
 
 ---
 
@@ -272,6 +273,16 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [C Programming Best Practices – Must know to become an Expert](https://data-flair.training/blogs/c-programming-best-practices/)
 - [c-style](https://github.com/mcinglis/c-style)
+
+---
+
+## Python best practices
+
+- [Python Best Practices – The only guide to become Python Expert](https://data-flair.training/blogs/python-best-practices/)
+- [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
+- [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
+- [Python Best Practices and Tips by Toptal Developers
+](https://www.toptal.com/python/tips-and-practices)
 
 
 
