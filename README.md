@@ -34,6 +34,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 22. **[TypeScript best practices](#typescript-best-practices)**
 23. **[Flutter best practices](#flutter-best-practices)**
 24. **[Vue best practices](#vue-best-practices)**
+25. **[C best practices](#c-best-practices)**
 
 ---
 
@@ -264,3 +265,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Tips & Best Practices](https://012.vuejs.org/guide/best-practices.html)
 - [10 Good Practices for Building and Maintaining Large Vue.js Projects](https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects)
 - [12 VueJS Best Practices for Pro Developers](https://learnvue.co/2020/01/12-vuejs-best-practices-for-pro-developers/)
+
+---
+
+## C Best Practices
+
+- [C Programming Best Practices – Must know to become an Expert](https://data-flair.training/blogs/c-programming-best-practices/)
+- [c-style](https://github.com/mcinglis/c-style)
+
+
+
