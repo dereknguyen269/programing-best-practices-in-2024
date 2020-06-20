@@ -163,6 +163,12 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [Rspec Best Practices](https://github.com/abinoda/rspec-best-practices) - @abinoda
 
+- [Rails Database Best Practices](https://blog.carbonfive.com/rails-database-best-practices/) - Christian Nelson
+
+- [Active Record Query Optimization Tips](https://medium.com/@User3141592/active-record-query-performance-tips-a3c3947b968) - Steven Li
+
+- [ActiveRecord: How to Speed Up Your SQL Queries](https://phrase.com/blog/posts/activerecord-speed-up-your-sql-queries/) - Stefan
+
 ---
 
 ## Laravel Best Practices
