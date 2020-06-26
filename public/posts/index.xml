@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Programing Best Practices For Good Developer</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Programing Best Practices For Good Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jun 2020 17:33:53 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Programing Best Practices For Good Developer</title>
-      <link>http://example.org/posts/programing-best-practices-for-good-developer-/</link>
+      <link>/posts/programing-best-practices-for-good-developer/</link>
       <pubDate>Fri, 26 Jun 2020 17:33:53 +0700</pubDate>
       
-      <guid>http://example.org/posts/programing-best-practices-for-good-developer-/</guid>
+      <guid>/posts/programing-best-practices-for-good-developer/</guid>
       <description>The list below isn&amp;rsquo;t meant to be exclusive, it&amp;rsquo;s more so a collection of links that have helped me out along the way (and can hopefully help you). As you&amp;rsquo;ll see, I&amp;rsquo;ve focused on Web Development such as: Ruby, Rails, Javascript. There is also a wealth of information on interview prep and applying to jobs.
 With the list bellow, I hope I can help developers improve their skills and rise up in their career path.</description>
     </item>
