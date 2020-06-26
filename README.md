@@ -1,4 +1,4 @@
-# Programing Best Practices For Good Developer
+# [Programing Best Practices For Good Developer](https://programingbestpractices.netlify.app/posts/programing-best-practices-for-good-developer/)
 
 The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on Web Development such as: Ruby, Rails, Javascript. There is also a wealth of information on interview prep and applying to jobs.
 
