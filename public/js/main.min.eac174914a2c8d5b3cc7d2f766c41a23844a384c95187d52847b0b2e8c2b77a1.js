@@ -1,0 +1,3 @@
+(function(){const backToTopBtn=document.getElementById("back_to_top");window.onscroll=function(){scrollFunction(backToTopBtn);};backToTopBtn.addEventListener("click",backToTop)})();function scrollFunction(btn){const pageOffset=document.documentElement.scrollTop||document.body.scrollTop;if(btn)btn.style.visibility=pageOffset>450?"visible":"hidden";}
+function backToTop(e){e.preventDefault()
+document.body.scrollTop=0;document.documentElement.scrollTop=0;}

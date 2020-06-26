@@ -1,0 +1,3 @@
+[submodule "themes/mixedpaper"]
+	path = themes/mixedpaper
+	url = https://github.com/wayjam/hugo-theme-mixedpaper.git
