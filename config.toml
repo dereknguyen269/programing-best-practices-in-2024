@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://programingbestpractices.netlify.app/"
 languageCode = "en-us"
 title = "Programing Best Practices For Good Developer"
 pygmentsUseClasses = true
