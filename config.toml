@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Programing Best Practices For Good Developer"
 pygmentsUseClasses = true
