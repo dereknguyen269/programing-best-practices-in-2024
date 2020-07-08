@@ -243,6 +243,12 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide) - @rrrene
 
+- [10 Killer Elixir Tips #1](https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be)
+
+- [10 Killer Elixir Tips #2](https://medium.com/blackode/10-killer-elixir-tips-2-c5f87f8a70c8)
+
+- [10 Killer Elixir Tips #3](https://medium.com/blackode/10-killer-elixir-tips-3-5c196eaec376)
+
 ---
 
 ## Scala Best Practices
