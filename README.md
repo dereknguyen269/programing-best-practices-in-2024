@@ -1,10 +1,13 @@
-# [Programing Best Practices For Good Developer](https://programingbestpractices.netlify.app/posts/programing-best-practices-for-good-developer/)
+<h1 align="center">Programing Best Practices For Good Developer</h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
 The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on Web Development such as: Ruby, Rails, Javascript. There is also a wealth of information on interview prep and applying to jobs.
 
 With the list bellow, I hope I can help developers improve their skills and rise up in their career path.
 
-**Status: Always work in progress** 
+**Status: Always work in progress**
 
 ---
 
@@ -24,7 +27,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 12. **[Rails Best Practices](#rails-best-practices)**
 13. **[Laravel Best Practices](#laravel-best-practices)**
 14. **[Swift Best Practices](#swift-best-practices)**
-14. **[Objective-C Best Practices](#objective-c-best-practices)**
+15. **[Objective-C Best Practices](#objective-c-best-practices)**
 16. **[Java Best Practices](#java-best-practices)**
 17. **[Kotlin Best Practices](#kotlin-best-practices)**
 18. **[GO Best Practices](#go-best-practices)**
@@ -40,6 +43,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 ---
 
 ### Start Here
+
 #### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please feel free to submit a PR!**
 
 ---
@@ -86,7 +90,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [Pragmatic Standards: JavaScript Coding Standards and Best Practices](https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md) - @stevekwan
 
-- [JavaScript规范](https://github.com/adamlu/javascript-style-guide) - @adamlu
+- [JavaScript 规范](https://github.com/adamlu/javascript-style-guide) - @adamlu
 
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - @google
 
@@ -97,7 +101,6 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Node.js Style Guide](https://github.com/felixge/node-style-guide) - @felixge
 
 - [RisingStack Node.js Style Guide() {](https://github.com/RisingStack/node-style-guide) - @RisingStack
-
 
 ---
 
@@ -294,7 +297,4 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 - [Python Best Practices and Tips by Toptal Developers
-](https://www.toptal.com/python/tips-and-practices)
-
-
-
+  ](https://www.toptal.com/python/tips-and-practices)
