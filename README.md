@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</div>
 
 The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on Web Development such as: Ruby, Rails, Javascript. There is also a wealth of information on interview prep and applying to jobs.
 
@@ -298,3 +299,12 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 - [Python Best Practices and Tips by Toptal Developers
   ](https://www.toptal.com/python/tips-and-practices)
+
+# Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
+# License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
