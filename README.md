@@ -40,6 +40,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 24. **[Vue best practices](#vue-best-practices)**
 25. **[C best practices](#c-best-practices)**
 26. **[Python best practices](#python-best-practices)**
+27.  **[C++ best practices](#c-plus-plus-best-practices)**
 
 ---
 
@@ -299,6 +300,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 - [Python Best Practices and Tips by Toptal Developers
   ](https://www.toptal.com/python/tips-and-practices)
+ 
+## C Plus Plus best practices
+
+- [3 Coding Best Practices for C++](https://www.perforce.com/blog/qac/3-coding-best-practices-cpp#:~:text=Write%20Readable%20Code,Use%20consistent%20indentation.)
+- [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices)
+- [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+- [C++ Best Practices](https://cppcon.org/cpp-best-practices/)
 
 # Contribute
 
