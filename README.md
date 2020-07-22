@@ -301,7 +301,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Python Best Practices and Tips by Toptal Developers
   ](https://www.toptal.com/python/tips-and-practices)
  
-## C Plus Plus best practices (C++)
+## C Plus Plus best practices
+### C++
 
 - [3 Coding Best Practices for C++](https://www.perforce.com/blog/qac/3-coding-best-practices-cpp#:~:text=Write%20Readable%20Code,Use%20consistent%20indentation.)
 - [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices)
