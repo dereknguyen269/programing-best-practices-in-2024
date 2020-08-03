@@ -41,6 +41,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 25. **[C best practices](#c-best-practices)**
 26. **[Python best practices](#python-best-practices)**
 27.  **[C++ best practices](#c-plus-plus-best-practices)**
+28.  **[R best practices](#r-best-practices)**
 
 ---
 
@@ -308,6 +309,13 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 - [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 - [C++ Best Practices](https://cppcon.org/cpp-best-practices/)
+
+## R best practices
+
+- [Beyond Basic R - Introduction and Best Practices](https://waterdata.usgs.gov/blog/intro-best-practices/)
+- [R Code – Best practices](https://www.r-bloggers.com/r-code-best-practices/)
+- [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/)
+- [R CODING STYLE BEST PRACTICES](https://www.datanovia.com/en/blog/r-coding-style-best-practices/)
 
 # Contribute
 
