@@ -157,6 +157,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 - [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - @bbatsov
 
+- [Shopify’s Ruby Style Guide ](https://github.com/Shopify/ruby-style-guide)
+
 ---
 
 ## Rails Best Practices
