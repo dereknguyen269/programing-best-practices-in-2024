@@ -295,33 +295,36 @@ With the list bellow, I hope I can help developers improve their skills and rise
 ## C Best Practices
 
 -   [C Programming Best Practices – Must know to become an Expert](https://data-flair.training/blogs/c-programming-best-practices/)
--   [c-style](https://github.com/mcinglis/c-style)
+-   [c-style](https://github.com/mcinglis/c-style) - @mcinglis
 
 ---
 
 ## Python best practices
 
 -   [Python Best Practices – The only guide to become Python Expert](https://data-flair.training/blogs/python-best-practices/)
--   [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
+-   [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839) - @sloria
 -   [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 -   [Python Best Practices and Tips by Toptal Developers
     ](https://www.toptal.com/python/tips-and-practices)
+-   [Code Style](https://docs.python-guide.org/writing/style/)
+-   [11 Tips And Tricks To Write Better Python Code](https://www.python-engineer.com/posts/11-tips-to-write-better-python-code/)
+-   [Python tutorial: Best practices and common mistakes to avoid](https://jaxenter.com/python-tutorial-best-practices-145959.html)
 
 ## C Plus Plus best practices
 
 ### C++
 
 -   [3 Coding Best Practices for C++](https://www.perforce.com/blog/qac/3-coding-best-practices-cpp#:~:text=Write%20Readable%20Code,Use%20consistent%20indentation.)
--   [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices)
--   [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+-   [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices) - @lefticus
+-   [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - @isocpp
 -   [C++ Best Practices](https://cppcon.org/cpp-best-practices/)
--   [C++ Best Practices](https://github.com/puppetlabs/cppbestpractices) - Puppet Labs
+-   [C++ Best Practices](https://github.com/puppetlabs/cppbestpractices) - @puppetlabs
 
 ## R best practices
 
 -   [Beyond Basic R - Introduction and Best Practices](https://waterdata.usgs.gov/blog/intro-best-practices/)
 -   [R Code – Best practices](https://www.r-bloggers.com/r-code-best-practices/)
--   [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/)
+-   [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/) - @swcarpentry
 -   [R CODING STYLE BEST PRACTICES](https://www.datanovia.com/en/blog/r-coding-style-best-practices/)
 
 # Contribute
