@@ -306,6 +306,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 -   [Python Best Practices and Tips by Toptal Developers
     ](https://www.toptal.com/python/tips-and-practices)
+-   [Code Style](https://docs.python-guide.org/writing/style/)
+-   [11 Tips And Tricks To Write Better Python Code](https://www.python-engineer.com/posts/11-tips-to-write-better-python-code/)
+-   [Python tutorial: Best practices and common mistakes to avoid](https://jaxenter.com/python-tutorial-best-practices-145959.html)
 
 ## C Plus Plus best practices
 
