@@ -220,6 +220,10 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - @raywenderlich
 
+-   [Java Best Practices Guide](https://howtodoinjava.com/java-best-practices/)
+
+-   [30 Java Programming Tips and Best Practices for Beginners](https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html)
+
 ---
 
 ## Kotlin Best Practices
