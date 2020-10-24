@@ -220,6 +220,10 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - @raywenderlich
 
+-   [Java Best Practices Guide](https://howtodoinjava.com/java-best-practices/)
+
+-   [30 Java Programming Tips and Best Practices for Beginners](https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html)
+
 ---
 
 ## Kotlin Best Practices
@@ -319,6 +323,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - @isocpp
 -   [C++ Best Practices](https://cppcon.org/cpp-best-practices/)
 -   [C++ Best Practices](https://github.com/puppetlabs/cppbestpractices) - @puppetlabs
+-   [Modern C++ best practices for exceptions and error handling](https://docs.microsoft.com/en-us/cpp/cpp/errors-and-exception-handling-modern-cpp?view=vs-2019) - microsoft
+-   [Top Ten Tips for Correct C++ Coding](https://www.informit.com/articles/article.aspx?p=1712962)
+
 
 ## R best practices
 
