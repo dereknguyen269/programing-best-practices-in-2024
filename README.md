@@ -162,6 +162,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Shopify’s Ruby Style Guide ](https://github.com/Shopify/ruby-style-guide)
 
+-   [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
+
 ---
 
 ## Rails Best Practices
@@ -179,6 +181,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [Active Record Query Optimization Tips](https://medium.com/@User3141592/active-record-query-performance-tips-a3c3947b968) - Steven Li
 
 -   [ActiveRecord: How to Speed Up Your SQL Queries](https://phrase.com/blog/posts/activerecord-speed-up-your-sql-queries/) - Stefan
+
+-   [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
+
 
 ---
 
