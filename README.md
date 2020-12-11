@@ -118,6 +118,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Advanced ReactJS Patterns](https://github.com/kentcdodds/advanced-react-patterns-v2) - @kentcdodds
 
+-   [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) - @sudheerj
+
 ---
 
 ## Angular Best Practices
