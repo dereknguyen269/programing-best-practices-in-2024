@@ -166,6 +166,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
 
+-   [Ruby Best Practices and Tips by Toptal Developers](https://www.toptal.com/ruby/tips-and-practices)
+
 ---
 
 ## Rails Best Practices
