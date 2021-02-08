@@ -188,6 +188,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
 
+-   [Arel](https://devhints.io/arel)
 
 ---
 
@@ -272,6 +273,10 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [10 Killer Elixir Tips #2](https://medium.com/blackode/10-killer-elixir-tips-2-c5f87f8a70c8)
 
 -   [10 Killer Elixir Tips #3](https://medium.com/blackode/10-killer-elixir-tips-3-5c196eaec376)
+
+-   [Elixir cheatsheet](https://devhints.io/elixir)
+    
+-   [Elixir metaprogramming](https://devhints.io/elixir-metaprogramming)
 
 ---
 
