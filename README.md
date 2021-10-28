@@ -168,6 +168,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Ruby Best Practices and Tips by Toptal Developers](https://www.toptal.com/ruby/tips-and-practices)
 
+-   [Ruby best practices beginners should know](https://deepsource.io/blog/ruby-dev-best-practices-for-beginners/)
+
 ---
 
 ## Rails Best Practices
