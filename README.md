@@ -100,6 +100,12 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - @google
 
+-   [JavaScript The Right Way](https://jstherightway.org/) - @braziljs
+
+-   [MDN JavaScript guidelines](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript) - @mozilla
+
+-   [W3C JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices) - @w3c
+
 ---
 
 ## NodeJS Best Practices
