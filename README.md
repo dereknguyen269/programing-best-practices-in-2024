@@ -260,6 +260,10 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Go Style Guide](https://github.com/AgtLucas/go-style-guide) - @AgtLucas
 
+-   [Golang tutorial series](https://golangbot.com/learn-golang-series/)
+
+-   [Golang cheat sheet by golang-dojo](https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo)
+
 ---
 
 ## Rust Best Practices
