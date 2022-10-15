@@ -255,6 +255,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 ---
 
 ## GO Best Practices
+-   [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - @uber-go
 
 -   [Go Best Practices](https://github.com/mehrdadrad/GoBestPractices) - @mehrdadrad
 
