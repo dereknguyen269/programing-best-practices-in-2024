@@ -200,6 +200,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [Arel](https://devhints.io/arel)
 
 -   [Production Rails](https://github.com/ankane/production_rails) - @ankane
+-   [Securing Sensitive Data in Rails](https://ankane.org/sensitive-data-rails) - @ankane
 ---
 
 ## Laravel Best Practices
