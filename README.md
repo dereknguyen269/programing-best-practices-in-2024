@@ -176,7 +176,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Ruby best practices beginners should know](https://deepsource.io/blog/ruby-dev-best-practices-for-beginners/)
 
--   [The Ultimate Guide to Ruby Timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts)
+-   [The Ultimate Guide to Ruby Timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - @ankane
 ---
 
 ## Rails Best Practices
@@ -198,6 +198,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
 
 -   [Arel](https://devhints.io/arel)
+
+-   [Production Rails](https://github.com/ankane/production_rails) - @ankane
+-   [Securing Sensitive Data in Rails](https://ankane.org/sensitive-data-rails) - @ankane
 ---
 
 ## Laravel Best Practices
