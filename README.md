@@ -203,6 +203,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Production Rails](https://github.com/ankane/production_rails) - @ankane
 -   [Securing Sensitive Data in Rails](https://ankane.org/sensitive-data-rails) - @ankane
+-   [Toptal's Ruby on Rails best practices](https://www.toptal.com/ruby-on-rails/tips-and-practices)
 ---
 
 ## Laravel Best Practices
