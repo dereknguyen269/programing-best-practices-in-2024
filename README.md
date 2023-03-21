@@ -342,7 +342,6 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Python Best Practices – The only guide to become Python Expert](https://data-flair.training/blogs/python-best-practices/)
 -   [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839) - @sloria
--   [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 -   [Python Best Practices and Tips by Toptal Developers
     ](https://www.toptal.com/python/tips-and-practices)
 -   [Code Style](https://docs.python-guide.org/writing/style/)
