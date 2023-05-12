@@ -365,7 +365,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Beyond Basic R - Introduction and Best Practices](https://waterdata.usgs.gov/blog/intro-best-practices/)
 -   [R Code – Best practices](https://www.r-bloggers.com/r-code-best-practices/)
--   [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/) - @swcarpentry
+-   [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html) - @swcarpentry
 -   [R CODING STYLE BEST PRACTICES](https://www.datanovia.com/en/blog/r-coding-style-best-practices/)
 -   [Good Practices in R Programming](https://stat.ethz.ch/Teaching/maechler/R/useR_2014/Maechler-2014-pr.pdf)
 
