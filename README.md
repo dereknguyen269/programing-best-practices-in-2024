@@ -17,36 +17,35 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 ### Table of Contents
 
-1. **[Start Here](#start-here)**
-2. **[Angular Best Practices](#angular-best-practices)**
-3. **[C best practices](#c-best-practices)**
-4. **[C++ best practices](#c-plus-plus-best-practices)**
-5. **[CSS Best Practices](#css-best-practices)**
-6. **[Elixir Best Practices](#elixir-best-practices)**
-7. **[Flutter best practices](#flutter-best-practices)**
-8. **[GO Best Practices](#go-best-practices)**
-9. **[HTML Best Practices](#html-best-practices)**
-10. **[JavaScript Best Practices](#javascript-best-practices)**
-11. **[Java Best Practices](#java-best-practices)**
-12. **[Kotlin Best Practices](#kotlin-best-practices)**
-13. **[Laravel Best Practices](#laravel-best-practices)**
-14. **[NodeJS Best Practices](#nodejs-best-practices)**
-15. **[SASS Best Practices](#sass-best-practices)**
-16. **[Scala Best Practices](#scala-best-practices)**
-17. **[Swift Best Practices](#swift-best-practices)**
-18. **[Objective-C Best Practices](#objective-c-best-practices)**
-19. **[PHP Best Practices](#php-best-practices)**
-20. **[Python best practices](#python-best-practices)**
-21. **[Ruby Best Practices](#ruby-best-practices)**
-22. **[Rails Best Practices](#rails-best-practices)**
-23. **[ReactJS Best Practices](#reactjs-best-practices)**
-24. **[ReactNative Best Practices](#reactnative-best-practices)**
-25. **[R best practices](#r-best-practices)**
-26. **[Rust Best Practices](#rust-best-practices)**
-27. **[TypeScript best practices](#typescript-best-practices)**
-28. **[Vue best practices](#vue-best-practices)**
-
----
+- **[Start Here](#start-here)**
+- **[Angular Best Practices](#angular-best-practices)**
+- **[C best practices](#c-best-practices)**
+- **[C++ best practices](#c-plus-plus-best-practices)**
+- **[CSS Best Practices](#css-best-practices)**
+- **[Elixir Best Practices](#elixir-best-practices)**
+- **[Flutter best practices](#flutter-best-practices)**
+- **[GO Best Practices](#go-best-practices)**
+- **[HTML Best Practices](#html-best-practices)**
+- **[JavaScript Best Practices](#javascript-best-practices)**
+- **[Java Best Practices](#java-best-practices)**
+- **[Kotlin Best Practices](#kotlin-best-practices)**
+- **[Laravel Best Practices](#laravel-best-practices)**
+- **[NodeJS Best Practices](#nodejs-best-practices)**
+- **[SASS Best Practices](#sass-best-practices)**
+- **[Scala Best Practices](#scala-best-practices)**
+- **[Swift Best Practices](#swift-best-practices)**
+- **[SQL Best Practices](#sql-best-practices)**
+- **[Objective-C Best Practices](#objective-c-best-practices)**
+- **[PHP Best Practices](#php-best-practices)**
+- **[Python best practices](#python-best-practices)**
+- **[Ruby Best Practices](#ruby-best-practices)**
+- **[Rails Best Practices](#rails-best-practices)**
+- **[ReactJS Best Practices](#reactjs-best-practices)**
+- **[ReactNative Best Practices](#reactnative-best-practices)**
+- **[R best practices](#r-best-practices)**
+- **[Rust Best Practices](#rust-best-practices)**
+- **[TypeScript best practices](#typescript-best-practices)**
+- **[Vue best practices](#vue-best-practices)**
 
 ### Start Here
 
@@ -300,6 +299,18 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [Scala Best Practices](https://github.com/alexandru/scala-best-practices) - @alexandru
 
 -   [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - @databricks
+
+---
+
+## SQL Best Practices
+
+-  [SQL Style Guide](https://www.sqlstyle.guide)
+
+-  [Best practices for writing SQL queries](https://www.metabase.com/learn/sql-questions/sql-best-practices)
+
+-  [SQL Performance Explained by Markus Winand](https://use-the-index-luke.com/)
+
+-  [SQL Style Guide at GitLab](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
 
 ---
 
