@@ -172,6 +172,9 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [Ruby best practices beginners should know](https://deepsource.io/blog/ruby-dev-best-practices-for-beginners/)
 
 -   [The Ultimate Guide to Ruby Timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - @ankane
+
+-   [DESIGN PATTERNS in RUBY](https://refactoring.guru/design-patterns/ruby) - refactoring.guru
+
 ---
 
 ## Rails Best Practices
@@ -266,11 +269,17 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Soham Kamani - Golang](https://www.sohamkamani.com/golang/)
 
+-   [DESIGN PATTERNS in GO](https://refactoring.guru/design-patterns/go) - refactoring.guru
+
 ---
 
 ## Rust Best Practices
 
 -   [Rust Style Guide](https://github.com/ubsan/style/blob/master/guide.md) - @ubsan
+
+-   [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+
+-   [DESIGN PATTERNS in RUST](https://refactoring.guru/design-patterns/rust) - refactoring.guru
 
 ---
 
@@ -352,6 +361,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [Code Style](https://docs.python-guide.org/writing/style/)
 -   [11 Tips And Tricks To Write Better Python Code](https://www.python-engineer.com/posts/11-tips-to-write-better-python-code/)
 -   [Python tutorial: Best practices and common mistakes to avoid](https://jaxenter.com/python-tutorial-best-practices-145959.html)
+-   [DESIGN PATTERNS in PYTHON](https://refactoring.guru/design-patterns/python) - refactoring.guru
 
 ## C Plus Plus best practices
 
