@@ -39,6 +39,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Objective-C Best Practices](#objective-c-best-practices)**
 - **[PHP Best Practices](#php-best-practices)**
 - **[Python best practices](#python-best-practices)**
+- **[Perl best practices](#perl-best-practices)**
 - **[Ruby Best Practices](#ruby-best-practices)**
 - **[Rails Best Practices](#rails-best-practices)**
 - **[ReactJS Best Practices](#reactjs-best-practices)**
@@ -389,6 +390,11 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Lua Best Practices by Lua.org](https://www.lua.org/gems/sample.pdf)
 -   [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
+
+## Perl best practices
+
+-  [Effective Perl Programming: Idiomatic Perl](https://www.effectiveperlprogramming.com/)
+-  [Perl Style Guide by Perl.org](https://perldoc.perl.org/perlstyle)
 
 # Contribute
 
