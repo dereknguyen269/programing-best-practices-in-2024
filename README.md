@@ -30,6 +30,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Java Best Practices](#java-best-practices)**
 - **[Kotlin Best Practices](#kotlin-best-practices)**
 - **[Laravel Best Practices](#laravel-best-practices)**
+- **[Lua Best Practices](#lua-best-practices)**
 - **[NodeJS Best Practices](#nodejs-best-practices)**
 - **[SASS Best Practices](#sass-best-practices)**
 - **[Scala Best Practices](#scala-best-practices)**
@@ -383,6 +384,11 @@ With the list bellow, I hope I can help developers improve their skills and rise
 -   [Best Practices for Writing R Code](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html) - @swcarpentry
 -   [R CODING STYLE BEST PRACTICES](https://www.datanovia.com/en/blog/r-coding-style-best-practices/)
 -   [Good Practices in R Programming](https://stat.ethz.ch/Teaching/maechler/R/useR_2014/Maechler-2014-pr.pdf)
+
+## Lua best practices
+
+-   [Lua Best Practices by Lua.org](https://www.lua.org/gems/sample.pdf)
+-   [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 
 # Contribute
 
