@@ -85,6 +85,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 -   [Sass-Guidlines](https://github.com/blackfalcon/Sass-Guidlines/blob/master/SASS-Guidelines.md) - @blackfalcon
 
+-   [Sass-lang Style Rule](https://sass-lang.com/documentation/style-rules)
+
 ---
 
 ## JavaScript Best Practices
