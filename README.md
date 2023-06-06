@@ -15,43 +15,48 @@ With the list bellow, I hope I can help developers improve their skills and rise
 
 ---
 
-### Table of Contents
+## Topics
+### Backend
 
-- **[Start Here](#start-here)**
-- **[Angular Best Practices](#angular-best-practices)**
 - **[C best practices](#c-best-practices)**
 - **[C++ best practices](#c-plus-plus-best-practices)**
-- **[CSS Best Practices](#css-best-practices)**
 - **[Elixir Best Practices](#elixir-best-practices)**
-- **[Flutter best practices](#flutter-best-practices)**
 - **[GO Best Practices](#go-best-practices)**
-- **[HTML Best Practices](#html-best-practices)**
-- **[JavaScript Best Practices](#javascript-best-practices)**
 - **[Java Best Practices](#java-best-practices)**
-- **[Kotlin Best Practices](#kotlin-best-practices)**
 - **[Laravel Best Practices](#laravel-best-practices)**
 - **[Lua Best Practices](#lua-best-practices)**
 - **[NodeJS Best Practices](#nodejs-best-practices)**
-- **[SASS Best Practices](#sass-best-practices)**
 - **[Scala Best Practices](#scala-best-practices)**
-- **[Swift Best Practices](#swift-best-practices)**
-- **[SQL Best Practices](#sql-best-practices)**
 - **[Objective-C Best Practices](#objective-c-best-practices)**
 - **[PHP Best Practices](#php-best-practices)**
 - **[Python best practices](#python-best-practices)**
 - **[Perl best practices](#perl-best-practices)**
 - **[Ruby Best Practices](#ruby-best-practices)**
 - **[Rails Best Practices](#rails-best-practices)**
+- **[Rust Best Practices](#rust-best-practices)**
+
+### Frontend
+
+- **[Angular Best Practices](#angular-best-practices)**
+- **[CSS Best Practices](#css-best-practices)**
+- **[HTML Best Practices](#html-best-practices)**
+- **[JavaScript Best Practices](#javascript-best-practices)**
+- **[SASS Best Practices](#sass-best-practices)**
 - **[ReactJS Best Practices](#reactjs-best-practices)**
 - **[ReactNative Best Practices](#reactnative-best-practices)**
-- **[R best practices](#r-best-practices)**
-- **[Rust Best Practices](#rust-best-practices)**
 - **[TypeScript best practices](#typescript-best-practices)**
 - **[Vue best practices](#vue-best-practices)**
 
-### Start Here
+### Other
+- **[Swift Best Practices](#swift-best-practices)**
+- **[Flutter best practices](#flutter-best-practices)**
+- **[SQL Best Practices](#sql-best-practices)**
+- **[Kotlin Best Practices](#kotlin-best-practices)**
+- **[R best practices](#r-best-practices)**
 
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please feel free to submit a PR!**
+## Start Here
+
+Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please feel free to submit a PR!
 
 ---
 
