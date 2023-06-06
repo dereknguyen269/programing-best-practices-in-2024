@@ -34,6 +34,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Ruby Best Practices](#ruby-best-practices)**
 - **[Rails Best Practices](#rails-best-practices)**
 - **[Rust Best Practices](#rust-best-practices)**
+- **[API Security Best Practices](https://roadmap.sh/best-practices/api-security)**
 
 ### Frontend
 
@@ -46,6 +47,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[ReactNative Best Practices](#reactnative-best-practices)**
 - **[TypeScript best practices](#typescript-best-practices)**
 - **[Vue best practices](#vue-best-practices)**
+- **[Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)**
 
 ### Other
 - **[Swift Best Practices](#swift-best-practices)**
@@ -53,6 +55,8 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[SQL Best Practices](#sql-best-practices)**
 - **[Kotlin Best Practices](#kotlin-best-practices)**
 - **[R best practices](#r-best-practices)**
+- **[Code Review Best Practices](https://roadmap.sh/best-practices/code-review)**
+- **[AWS Best Practices](https://roadmap.sh/best-practices/aws)**
 
 ## Start Here
 
