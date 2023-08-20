@@ -49,10 +49,16 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Vue best practices](#vue-best-practices)**
 - **[Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)**
 
+### Database
+
+- **[SQL Best Practices](#sql-best-practices)**
+- **[PostgreSQL Best Practices](#postgresql-best-practices)**
+- **[MySQL Best Practices](#mysql-best-practices)**
+- **[NoSQL Best Practices](#nosql-best-practices)**
+
 ### Other
 - **[Swift Best Practices](#swift-best-practices)**
 - **[Flutter best practices](#flutter-best-practices)**
-- **[SQL Best Practices](#sql-best-practices)**
 - **[Kotlin Best Practices](#kotlin-best-practices)**
 - **[R best practices](#r-best-practices)**
 - **[Code Review Best Practices](https://roadmap.sh/best-practices/code-review)**
@@ -407,6 +413,12 @@ Hello! I created this list and am constantly updating it with new resources, inf
 -  [Effective Perl Programming: Idiomatic Perl](https://www.effectiveperlprogramming.com/)
 -  [Perl Style Guide by Perl.org](https://perldoc.perl.org/perlstyle)
 
+## Postgresql best practices
+
+- [PostgreSQL Performance Best Practices](https://www.adservio.fr/post/postgresql-performance-best-practices)
+- [Best Practices for PostgreSQL Database](https://www.e2enetworks.com/blog/best-practices-for-postgresql-database)
+- [Run ANALYZE. Run ANALYZE. Run ANALYZE](https://ottertune.com/blog/run-postgresql-analyze-to-fix-a-slowdow-in-db/)
+- [Best Practices for Designing PostgreSQL Databases and How AppMaster Can Simplify the Process](https://appmaster.io/blog/best-practices-for-designing-postgresql-databases)
 # Contribute
 
 Contributions are always welcome!
