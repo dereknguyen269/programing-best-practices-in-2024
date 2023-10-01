@@ -48,6 +48,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[TypeScript best practices](#typescript-best-practices)**
 - **[Vue best practices](#vue-best-practices)**
 - **[Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)**
+- **[Nextjs best practices](#nextjs-best-practices)**
 
 ### Database
 
@@ -419,6 +420,13 @@ Hello! I created this list and am constantly updating it with new resources, inf
 - [Best Practices for PostgreSQL Database](https://www.e2enetworks.com/blog/best-practices-for-postgresql-database)
 - [Run ANALYZE. Run ANALYZE. Run ANALYZE](https://ottertune.com/blog/run-postgresql-analyze-to-fix-a-slowdow-in-db/)
 - [Best Practices for Designing PostgreSQL Databases and How AppMaster Can Simplify the Process](https://appmaster.io/blog/best-practices-for-designing-postgresql-databases)
+
+## Nextjs best practices
+
+- [Best Practices for Building and Sustaining a Clean React/Next.js Project](https://blogs.perficient.com/2023/04/25/best-practices-for-building-and-sustaining-a-clean-react-next-js-project/)
+- [10 Tips for Optimal Performance](https://www.fronttribe.com/stories/next-js-best-practices-10-tips-for-optimal-performance)
+- [Best practices to increase the speed for Next.js apps](https://stackoverflow.blog/2022/12/20/best-practices-to-increase-the-speed-for-next-js-apps/)
+
 # Contribute
 
 Contributions are always welcome!
