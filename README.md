@@ -125,6 +125,7 @@ Hello! I created this list and am constantly updating it with new resources, inf
 
 -   [W3C JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices) - @w3c
 
+-   [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - @ryanmcdermott
 ---
 
 ## NodeJS Best Practices
