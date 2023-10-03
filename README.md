@@ -34,7 +34,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Ruby Best Practices](#ruby-best-practices)**
 - **[Rails Best Practices](#rails-best-practices)**
 - **[Rust Best Practices](#rust-best-practices)**
-- **[API Security Best Practices](https://roadmap.sh/best-practices/api-security)**
+- **[API Security Best Practices](#api-security-best-practices)**
 
 ### Frontend
 
@@ -427,6 +427,11 @@ Hello! I created this list and am constantly updating it with new resources, inf
 - [Best Practices for Building and Sustaining a Clean React/Next.js Project](https://blogs.perficient.com/2023/04/25/best-practices-for-building-and-sustaining-a-clean-react-next-js-project/)
 - [10 Tips for Optimal Performance](https://www.fronttribe.com/stories/next-js-best-practices-10-tips-for-optimal-performance)
 - [Best practices to increase the speed for Next.js apps](https://stackoverflow.blog/2022/12/20/best-practices-to-increase-the-speed-for-next-js-apps/)
+
+## API Security Best Practices
+
+- [API Security Best Practices by Roadmap.sh](https://roadmap.sh/best-practices/api-security)
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 
 # Contribute
 
