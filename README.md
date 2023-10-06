@@ -422,6 +422,12 @@ Hello! I created this list and am constantly updating it with new resources, inf
 - [Run ANALYZE. Run ANALYZE. Run ANALYZE](https://ottertune.com/blog/run-postgresql-analyze-to-fix-a-slowdow-in-db/)
 - [Best Practices for Designing PostgreSQL Databases and How AppMaster Can Simplify the Process](https://appmaster.io/blog/best-practices-for-designing-postgresql-databases)
 
+## NoSQL best practices
+
+- [10 NoSQL Data Modeling Best Practices](https://climbtheladder.com/10-nosql-data-modeling-best-practices/)
+- [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/)
+- [11 MongoDB Security Features and Best Practices](https://satoricyber.com/mongodb-security/11-mongodb-security-features-and-best-practices/)
+
 ## Nextjs best practices
 
 - [Best Practices for Building and Sustaining a Clean React/Next.js Project](https://blogs.perficient.com/2023/04/25/best-practices-for-building-and-sustaining-a-clean-react-next-js-project/)
