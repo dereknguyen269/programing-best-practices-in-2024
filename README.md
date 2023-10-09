@@ -49,6 +49,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Vue best practices](#vue-best-practices)**
 - **[Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)**
 - **[Nextjs best practices](#nextjs-best-practices)**
+- **[Nuxt Best Practices](#nuxt-best-practices)**
 
 ### Database
 
@@ -433,6 +434,10 @@ Hello! I created this list and am constantly updating it with new resources, inf
 - [Best Practices for Building and Sustaining a Clean React/Next.js Project](https://blogs.perficient.com/2023/04/25/best-practices-for-building-and-sustaining-a-clean-react-next-js-project/)
 - [10 Tips for Optimal Performance](https://www.fronttribe.com/stories/next-js-best-practices-10-tips-for-optimal-performance)
 - [Best practices to increase the speed for Next.js apps](https://stackoverflow.blog/2022/12/20/best-practices-to-increase-the-speed-for-next-js-apps/)
+
+## Nuxt Best Practices
+
+- [10 Nuxt Best Practices](https://climbtheladder.com/10-nuxt-best-practices/)
 
 ## API Security Best Practices
 
