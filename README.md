@@ -65,6 +65,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[R best practices](#r-best-practices)**
 - **[Code Review Best Practices](https://roadmap.sh/best-practices/code-review)**
 - **[AWS Best Practices](https://roadmap.sh/best-practices/aws)**
+- **[System Design 101](https://github.com/ByteByteGoHq/system-design-101#system-design-101) - @ByteByteGoHq** 
 
 ## Start Here
 
