@@ -66,6 +66,7 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[Code Review Best Practices](https://roadmap.sh/best-practices/code-review)**
 - **[AWS Best Practices](https://roadmap.sh/best-practices/aws)**
 - **[System Design 101](https://github.com/ByteByteGoHq/system-design-101#system-design-101) - @ByteByteGoHq** 
+- **[AI & Data Science Best Practices](#ai-&-data-science-best-practices)**
 
 ## Start Here
 
@@ -444,6 +445,13 @@ Hello! I created this list and am constantly updating it with new resources, inf
 
 - [API Security Best Practices by Roadmap.sh](https://roadmap.sh/best-practices/api-security)
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
+
+## AI & Data Science Best Practices
+
+- [IBM Data Science - Best Practices](https://github.com/IBM/data-science-best-practices)
+- [xenonstack's blog](https://www.xenonstack.com/blog/ai-best-practices)
+- [Best practices for deep learning in Julia, inspired by fastai](https://github.com/FluxML/FastAI.jl)
+- [ETL best practices with airflow, with examples](https://github.com/gtoonstra/etl-with-airflow)
 
 # Contribute
 
